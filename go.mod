@@ -23,7 +23,7 @@ require (
 	github.com/pion/transport v0.12.3
 	github.com/pion/turn/v2 v2.0.5
 	github.com/pion/webrtc/v3 v3.1.0-beta.2.0.20210808020610-5253475ec730
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rs/cors v1.7.0 // indirect
 	github.com/rs/zerolog v1.25.0
 	github.com/soheilhy/cmux v0.1.4
@@ -36,6 +36,6 @@ require (
 	golang.org/x/sys v0.0.0-20210806184541-e5e7981a1069 // indirect
 	google.golang.org/grpc v1.35.0
 	google.golang.org/grpc/examples v0.0.0-20201209011439-fd32f6a4fefe // indirect
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/protobuf v1.26.0-rc.1
 	gopkg.in/ini.v1 v1.51.1 // indirect
 )
